@@ -601,7 +601,15 @@ table {
     aside {
         display: none;
     }
-  
+
+    #links{
+      display:none;
+    }
+
+    figure{
+      display:none;
+    }
+
     @page {
       size: 8.5in 11in;
       margin: 0.5in;
